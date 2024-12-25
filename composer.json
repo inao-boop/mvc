@@ -1,0 +1,16 @@
+{
+    "name": "asus/ccctiga",
+    "autoload": {
+        "psr-4": {
+            "Route\\": "routes/",
+            "App\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "inao-boop",
+            "email": "inaogestania@gmail.com"
+        }
+    ],
+    "require": {}
+}
